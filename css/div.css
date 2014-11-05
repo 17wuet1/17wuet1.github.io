@@ -1,0 +1,14 @@
+#section {
+	width:850px;
+	padding:18px;
+	background-color:purple;
+	border-radius:18px;
+	opacity:0.81;
+	margin-left:18px;
+	margin-top:9px;
+}
+pre {
+	font-family: Comic Sans MS;
+	font-size:18px;
+	color:#3D995c;
+}
